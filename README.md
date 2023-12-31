@@ -18,7 +18,7 @@
 
 
 <!--Intro start-->
-- 🎓 I'm currently studying Computer Science at Universitas Indonesia.
+- 🎓 Studying Information Systems at the University of Indonesia.
 
 - 🌱 I’m currently learning and exploring various technologies.
 
